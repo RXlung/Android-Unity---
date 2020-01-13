@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:padding="10dp"
+        android:text="跳转"
+        android:textSize="16sp" />
+
+    <LinearLayout
+        android:id="@+id/linear"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="60dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/colorPrimary"
+            android:padding="10dp"
+            android:text="跳水水水水水水水水时代是多少方法八八八八八八改变vvvvvv从
+            水水水水水水时代是多少方法八八八八八八改变vvvvvv从水水水水水水时代是多少方法八八八八八八改变vvvvvv从水水水水水水时代是多少方法八八八八八八改变vvvvvv从
+            水水水水水水时代是多少方法八八八八八八改变vvvvvv从水水水水水水时代是多少方法八八八八八八改变vvvvvv从
+            水水水水水水时代是多少方法八八八八八八改变vvvvvv从
+            水水水水水水时代是多少方法八八八八八八改变vvvvvv从
+            水水水水水水时代是多少方法八八八八八八改变vvvvvv从
+            水水水水水水时代是多少方法八八八八八八改变vvvvvv从
+            水水水水水水时代是多少方法八八八八八八改变vvvvvv从
+            水水水水水水时代是多少方法八八八八八八改变vvvvvv从
+            水水水水水水时代是多少方法八八八八八八改变vvvvvv从转"
+            android:textSize="16sp" />
+
+    </LinearLayout>
+</RelativeLayout>

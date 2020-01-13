@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16mm</dimen>
+    <dimen name="activity_vertical_margin">16mm</dimen>
+
+    <dimen name="text_small">12mm</dimen>
+    <dimen name="text_middle">14mm</dimen>
+    <dimen name="text_large">16mm</dimen>
+    <dimen name="fab_size_normal">80mm</dimen>
+    <dimen name="fab_size_mini">48mm</dimen>
+
+    <dimen name="fab_icon_size">24mm</dimen>
+
+    <dimen name="fab_plus_icon_size">14mm</dimen>
+    <dimen name="fab_plus_icon_stroke">2mm</dimen>
+
+    <dimen name="fab_shadow_offset">3mm</dimen>
+    <dimen name="fab_shadow_radius">9mm</dimen>
+
+    <dimen name="fab_stroke_width">1mm</dimen>
+
+    <dimen name="fab_actions_mmacing">16mm</dimen>
+    <dimen name="fab_labels_margin">8mm</dimen>
+    <dimen name="text_size12">12mm</dimen>
+    <dimen name="text_size14">14mm</dimen>
+    <dimen name="text_size16">16mm</dimen>
+    <dimen name="text_size18">18mm</dimen>
+    <dimen name="text_size20">20mm</dimen>
+    <dimen name="text_size22">22mm</dimen>
+    <dimen name="text_size26">26mm</dimen>
+    <dimen name="pad_height_3.5">26mm</dimen>
+    <dimen name="divider_height">22mm</dimen>
+    <dimen name="search_bta_item_btn_height">50mm</dimen>
+    <dimen name="slidingmenu_offset">20mm</dimen>
+    <dimen name="list_padding">6mm</dimen>
+    <dimen name="shadow_width">10mm</dimen>
+    <dimen name="slidingmenu">180mm</dimen>
+
+    <integer name="num_cols">1</integer>
+</resources>
